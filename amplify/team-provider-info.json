@@ -1,0 +1,26 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-adavivdashboard-dev-153214-authRole",
+            "UnauthRoleArn": "arn:aws:iam::001724692752:role/amplify-adavivdashboard-dev-153214-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::001724692752:role/amplify-adavivdashboard-dev-153214-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-adavivdashboard-dev-153214-deployment",
+            "UnauthRoleName": "amplify-adavivdashboard-dev-153214-unauthRole",
+            "StackName": "amplify-adavivdashboard-dev-153214",
+            "StackId": "arn:aws:cloudformation:us-east-1:001724692752:stack/amplify-adavivdashboard-dev-153214/9a455080-9569-11ea-809a-0aa9a390fc79",
+            "AmplifyAppId": "d1ch13ku3maxhh"
+        },
+        "categories": {
+            "auth": {
+                "adavivdashboard8e57bb4f": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d1ch13ku3maxhh",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}

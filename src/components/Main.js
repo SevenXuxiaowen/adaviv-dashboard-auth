@@ -4,6 +4,8 @@ import Topbar from './Topbar'
 import Sidebar from './Sidebar'
 import Dashboard from './Dashboard'
 
+import { withAuthenticator, AmplifySignOut } from '@aws-amplify/ui-react';
+
 class Main extends React.Component {
     constructor(props){
         super(props);
@@ -36,4 +38,4 @@ class Main extends React.Component {
     }
 }
 
-export default Main;
+export default withAuthenticator(Main);
